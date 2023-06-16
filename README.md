@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @programmerSeoyoungMin
+- 👀 I’m interested in All-Language
+- 🌱 I’m currently learning Vue
+- 📫 How to reach me programmer930323@gmail.com 
